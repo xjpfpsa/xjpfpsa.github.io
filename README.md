@@ -5,6 +5,12 @@
 
 *Here are some ahon ahon tips to train tuhod*
 
-*click* [here](https://www.youtube.com/watch?v=zuxclYwVTXI) *to know the secrets for ahoning*
+**Ahon Tips**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zuxclYwVTXI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dream Bike 🤪
+
+![Marcus-M50-Review-370x210](https://user-images.githubusercontent.com/118147500/202339723-db8e5d38-406c-471c-9787-04313248020e.jpg)
 
 
