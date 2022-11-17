@@ -13,4 +13,9 @@
 
 ![Marcus-M50-Review-370x210](https://user-images.githubusercontent.com/118147500/202339723-db8e5d38-406c-471c-9787-04313248020e.jpg)
 
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+|--------|---------|-----------|----------|--------|
+| School | Bike | School | Bike | Ahon |
+
+
 
