@@ -5,7 +5,6 @@
 
 *Here are some ahon ahon tips to train tuhod*
 
-![images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff1%2F2ChocolateChipCookies.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCookie&tbnid=_OvsYnHa2NG4gM&vet=12ahUKEwiknN71k7T7AhUPBaYKHS8YCYgQMygAegUIARCHAg..i&docid=699_amATzlc78M&w=3835&h=2558&q=cookie&ved=2ahUKEwiknN71k7T7AhUPBaYKHS8YCYgQMygAegUIARCHAg)		
-
+*click*[`here`](https://www.youtube.com/watch?v=zuxclYwVTXI)*to know the secrets for ahoning
 
 
