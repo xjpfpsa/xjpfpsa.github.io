@@ -41,7 +41,7 @@ click for time</button>
 
 <iframe src="https://scratch.mit.edu/projects/332026728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<iframe seamless="seamless" allowtransparency="true" allowfullscreen="true" frameborder="0"  width="485" height="402" ;border: 0px;" src="https://zv1y2i8p.play.gamezop.com/g/hgempP8Sc"> </iframe>
+
 
 ##### mr. gbox padlet 👍
 
