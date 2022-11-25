@@ -1,51 +1,33 @@
-# Welcome to *xjpfpsa.github.io!*
+# Bikes Spot
 
+Professional Bikes to Buy 2022
+Best Aggressive MTBs 
 
-
-**I like to ahon ahon in my bike, minding my own business. I also like to skid skid in my bike until bike is pudpod and doesnt make skrr skrr sounds anymore :(**
-**Java Script WOW! 🤪**
-
-
-
-*JavaScript of time wow 🤪*
-
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-click for time</button>
-
-<p id="demo"></p>
-
-
-
-![images](https://user-images.githubusercontent.com/118147500/202056203-aa9fad85-c77a-45fc-8461-bdddc005fc06.png)
-
-*Here are some ahon ahon tips to train tuhod*
-
-**Ahon Tips**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zuxclYwVTXI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Dream Bike 🤪
-
-![Marcus-M50-Review-370x210](https://user-images.githubusercontent.com/118147500/202339723-db8e5d38-406c-471c-9787-04313248020e.jpg)
-
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-|--------|---------|-----------|----------|--------|
-| School | Bike | School | Bike | Ahon |
-
-### ahon playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7J7dAbflYq2ndnLNPQp1e2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-#### my game
-
-<iframe src="https://scratch.mit.edu/projects/765159503/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
-
-##### mr. gbox padlet 👍
-
-<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/l5feue2domd8qsyl" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Made with Padlet"></div></a></div></div>
-
-
+ Ibis Ripmo V2 XT
  
+ ![351096_3422_XL](https://user-images.githubusercontent.com/118147500/203886175-2fc105d1-4012-4ad9-9bb1-030f97638f9a.jpg)
+
+According outdoorgearlab.com, 
+
+   Ripmo's geometry was updated to make it slacker and longer, and the suspension kinematics were adjusted to make it more progressive at the end of the stroke. This long-legged 29er way already a confident and capable descender, but now it feels even more composed in gnarly terrain and stable at speed with improved big-hit performance. Short chainstays keep the rear end sporty, and it's just as lively and energetic with responsive and precise handling. The V2 maintains its incredible climbing abilities with its efficient DW-Link suspension platform, steep seat tube angle, and direct power transfer. Superlatives like "quiver killer" come to mind with the Ripmo, as this is one bike that can do it and do it all well.
+
+   The Ripmo V2 is an excellent aggressive MTB with an amazing combination of uphill and downhill performance. This bike makes a lot of sense for the rider who wants a bike that climbs well without sacrificing performance on the way back down. This bike is supremely versatile.
+   
+   ## My Favorite Music
+
+
+ Pajama Party- 1096 Gang
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/l7uB0DG2jMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ Pare Ko- Eraserheads
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DwiKy8cieW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Introduction
+
+Welcome to Bike Spot! In this blog, we cover everything about bikes and the best bikes to choose from. It could be Road Bikes, MTBs, Gravel Bikes, Fixies, Hybrid, Foldable, and even a Unicycle!
+
+**Basic Bikes**
+
+![Bicycle (1)](https://user-images.githubusercontent.com/118147500/203886500-f7912cb9-c846-465f-a838-655ca740bd3e.jpg)
