@@ -13,7 +13,7 @@ According outdoorgearlab.com,
 
    The Ripmo V2 is an excellent aggressive MTB with an amazing combination of uphill and downhill performance. This bike makes a lot of sense for the rider who wants a bike that climbs well without sacrificing performance on the way back down. This bike is supremely versatile.
    
-   ## My Favorite Music
+   ##My Favorite Music
 
 
  Pajama Party- 1096 Gang
@@ -24,7 +24,7 @@ According outdoorgearlab.com,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwiKy8cieW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Introduction
+###Introduction
 
 Welcome to Bike Spot! In this blog, we cover everything about bikes and the best bikes to choose from. It could be Road Bikes, MTBs, Gravel Bikes, Fixies, Hybrid, Foldable, and even a Unicycle!
 
